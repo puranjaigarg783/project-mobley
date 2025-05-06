@@ -1,2 +1,2 @@
-def calculate_modulus(decimal_number, modulus):
-    return decimal_number % modulus
+def round_number(number, decimals=0):
+    return round(number, decimals)
